@@ -10,7 +10,7 @@ const chinaExam: DictionaryResource[] = [
     category: '国际考试',
     tags: ['PTE'],
     url: '/dicts/PTE_WFD_word.json',
-    length: 339,
+    length: 257,
     language: 'en',
     languageCategory: 'en',
   },
