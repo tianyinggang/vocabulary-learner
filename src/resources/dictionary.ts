@@ -3,6 +3,17 @@ import { calcChapterCount } from '@/utils'
 
 // 中国考试
 const chinaExam: DictionaryResource[] = [
+   {
+    id: 'PTE_WFD_Word',
+    name: 'WFD 错词本',
+    description: '',
+    category: '国际考试',
+    tags: ['PTE'],
+    url: '/dicts/PTE_WFD_word.json',
+    length: 339,
+    language: 'en',
+    languageCategory: 'en',
+  },
   {
     id: 'cet4',
     name: 'CET-4',
